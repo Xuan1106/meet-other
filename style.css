@@ -1,0 +1,24 @@
+body {
+    background: #e8cbc0;
+    background: -webkit-linear-gradient(to right, #e8cbc0, #636fa4);
+    background: linear-gradient(to right, #e8cbc0, #636fa4);
+    min-height: 100vh;
+}
+
+
+.btn-show-info:hover {
+    background: #ddd;
+    color: rgb(71, 71, 71);
+}
+
+.btn-show-info:active, .btn-show-info:focus{
+  background: rgb(211, 211, 211);
+  color: rgb(67, 74, 77);
+
+}
+
+#avatar:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+ 
